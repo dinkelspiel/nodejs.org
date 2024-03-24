@@ -190,12 +190,12 @@
     "default": false
   },
   {
-    "code": "sv",
-    "localName": "Svenska",
-    "name": "Swedish",
+    "code": "hi",
+    "localName": "हिन्दी",
+    "name": "Hindi",
     "langDir": "ltr",
-    "dateFormat": "YYYY-MM-DD",
-    "hrefLang": "sv",
+    "dateFormat": "DD.MM.YYYY",
+    "hrefLang": "hi",
     "enabled": false,
     "default": false
   }
